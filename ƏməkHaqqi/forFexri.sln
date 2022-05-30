@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forFexri", "forFexri\forFexri.csproj", "{F9C2647A-7D1E-4D50-BFA1-092B6C7F119E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9C2647A-7D1E-4D50-BFA1-092B6C7F119E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C2647A-7D1E-4D50-BFA1-092B6C7F119E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C2647A-7D1E-4D50-BFA1-092B6C7F119E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C2647A-7D1E-4D50-BFA1-092B6C7F119E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0AF7AE9-918F-45CE-AF61-6D5E69DB2C34}
+	EndGlobalSection
+EndGlobal
